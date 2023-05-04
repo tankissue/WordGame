@@ -1,0 +1,492 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra&display=swap');
+
+
+body{
+    background-color: rgb(255, 247, 142);
+}
+
+.btn1_Row1{
+    grid-area: btn1_Row1 ;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+    
+    
+}
+
+.btn1_Row1:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+
+}
+
+.btn2_Row1{
+    grid-area: btn2_Row1 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+}
+.btn2_Row1:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.btn3_Row1{
+    grid-area: btn3_Row1 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+}
+.btn3_Row1:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.btn4_Row1{
+    grid-area: btn4_Row1 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+}
+.btn4_Row1:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+    
+}
+.btn5_Row1{
+    grid-area: btn5_Row1 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+
+}.btn5_Row1:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn1_Row2{
+    grid-area: btn1_Row2 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+}.btn1_Row2:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn2_Row2{
+    grid-area: btn2_Row2 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+}.btn2_Row2:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn3_Row2{
+    grid-area: btn3_Row2 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+}.btn3_Row2:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn4_Row2{
+    grid-area: btn4_Row2 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+}.btn4_Row2:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn5_Row2{
+    grid-area: btn5_Row2 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+}.btn5_Row2:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn1_Row3{
+    grid-area: btn1_Row3 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+
+}.btn1_Row3:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn2_Row3{
+    grid-area: btn2_Row3 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+
+}.btn2_Row3:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn3_Row3{
+    grid-area: btn3_Row3 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+}.btn3_Row3:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn4_Row3{
+    grid-area: btn4_Row3 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+
+}.btn4_Row3:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn5_Row3{
+    grid-area: btn5_Row3 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+
+
+}.btn5_Row3:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn1_Row4{
+    grid-area: btn1_Row4;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+}
+
+
+
+.btn1_Row4:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn2_Row4{
+    grid-area: btn2_Row4 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+}.btn2_Row4:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn3_Row4{
+    grid-area: btn3_Row4 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+
+}.btn3_Row4:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn4_Row4{
+    grid-area: btn4_Row4 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+}.btn4_Row4:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn5_Row4{
+    grid-area: btn5_Row4 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+
+}.btn5_Row4:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.btn1_Row5{
+    grid-area: btn1_Row5 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+
+}.btn1_Row5:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.btn2_Row5{
+    grid-area: btn2_Row5 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+}.btn2_Row5:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.btn3_Row5{
+    grid-area: btn3_Row5 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+
+}.btn3_Row5:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.btn4_Row5{
+    grid-area: btn4_Row5 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+
+}.btn4_Row5:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.btn5_Row5{
+    grid-area: btn5_Row5 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+
+}.btn5_Row5:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.btn1_Row6{
+    grid-area: btn1_Row6 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+}.btn1_Row6:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn2_Row6{
+    grid-area: btn2_Row6 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+
+}.btn2_Row6:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn3_Row6{
+    grid-area: btn3_Row6 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+
+}.btn3_Row6:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn4_Row6{
+    grid-area: btn4_Row6 ;
+    background-color: rgb(255, 255, 255);
+    border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+
+}.btn4_Row6:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+.btn5_Row6{
+    grid-area: btn5_Row6 ;
+     background-color: rgb(255, 255, 255);
+      border-color: rgb(97, 97, 97);
+    border-width: 5px;
+    border: 5px solid rgb(187, 41, 255);
+
+
+
+}.btn5_Row6:hover{
+    border-color: rgb(0, 242, 255);
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+
+.GameBoxes{
+    display: grid;
+    grid-template-areas: 
+    "btn1_Row1 btn2_Row1 btn3_Row1 btn4_Row1 btn5_Row1 "
+    "btn1_Row2 btn2_Row2 btn3_Row2 btn4_Row2 btn5_Row2 "
+    "btn1_Row3 btn2_Row3 btn3_Row3 btn4_Row3 btn5_Row3 "
+    "btn1_Row4 btn2_Row4 btn3_Row4 btn4_Row4 btn5_Row4 "
+    "btn1_Row5 btn2_Row5 btn3_Row5 btn4_Row5 btn5_Row5 "
+    "btn1_Row6 btn2_Row6 btn3_Row6 btn4_Row6 btn5_Row6 "
+    ;
+    grid-gap: 20px;
+    width: 1000px;
+    height: 500px;
+    align-self: center;
+    text-align: center;
+    box-sizing: content-box;
+    /* pointer-events: none; */
+
+    
+}
+
+
+.WordShow{
+    width: 100px;
+    border-bottom: 2px solid black;
+    margin-bottom: 30px;
+    text-align: center;
+    letter-spacing: 5px;
+  
+}
+
+.WordGameText{
+    font-family: 'Alkatra', cursive;
+    text-align: center;
+    font-size: 32px;
+    letter-spacing: 5px;
+    animation: colorRotate 6s linear 0s infinite;
+  }
+  
+  @keyframes colorRotate {
+    from {
+      color: #6666ff;
+    }
+    10% {
+      color: #0099ff;
+    }
+    50% {
+      color: #00ff00;
+    }
+    75% {
+      color: #ff3399;
+    }
+    100% {
+      color: #6666ff;
+    }
+}
+
+
+.reload{
+    margin-top: 30px;
+}
+
+.btn_reload{
+    width: 150px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: rgb(248, 253, 122);
+    box-shadow:10px 10px 5px #000000;
+    border: 4px solid rgb(104, 92, 92);
+}
+
+.btn_reload:hover{
+    background-color: rgb(254, 135, 49);
+    box-shadow:10px 10px 5px #d7b4b4;
+}
+
+
+img{
+    width: 100px;
+    height: 100px;
+    mix-blend-mode:exclusion;
+        
+}
+
+
+@keyframes spin {
+    from{transform: rotate(0deg)}
+    from{transform: rotate(360deg)}
+}
+
+.image{
+    animation-name: spin;
+    animation-duration: 3s;
+}

@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Word Game By Aditya Rawat</title>
+    <meta name="description" content="">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <!-- onload="setTimeout()">  -->
+
+    <center>
+    <div class="WordGame">
+        <h1 class="WordGameText">Word Masters</h1>
+    </div>
+    </center>
+    <center>
+        <div class="WordShow">😊😊😊</div>  
+    </center>
+    <center>
+        <div class="loader" id="loader">
+            <img class = "image" src = "load.png">
+        </div>
+    </center>
+    <center>
+    <div class="GameBoxes" onkeydown = "TakeInput()">
+     
+        <div class="btn1_Row1 score_board"></div>
+        <div class="btn2_Row1 score_board"></div>
+        <div class="btn3_Row1 score_board"></div>
+        <div class="btn4_Row1 score_board"></div>
+        <div class="btn5_Row1 score_board"></div>
+        <div class="btn1_Row2 score_board"></div>
+        <div class="btn2_Row2 score_board"></div>
+        <div class="btn3_Row2 score_board"></div>
+        <div class="btn4_Row2 score_board"></div>
+        <div class="btn5_Row2 score_board"></div>
+        <div class="btn1_Row3 score_board"></div>
+        <div class="btn2_Row3 score_board"></div>
+        <div class="btn3_Row3 score_board"></div>
+        <div class="btn4_Row3 score_board"></div>
+        <div class="btn5_Row3 score_board"></div>
+        <div class="btn1_Row4 score_board"></div>
+        <div class="btn2_Row4 score_board"></div>
+        <div class="btn3_Row4 score_board"></div>
+        <div class="btn4_Row4 score_board"></div>
+        <div class="btn5_Row4 score_board"></div>
+        <div class="btn1_Row5 score_board"></div>
+        <div class="btn2_Row5 score_board"></div>
+        <div class="btn3_Row5 score_board"></div>
+        <div class="btn4_Row5 score_board"></div>
+        <div class="btn5_Row5 score_board"></div>
+        <div class="btn1_Row6 score_board"></div>
+        <div class="btn2_Row6 score_board"></div>
+        <div class="btn3_Row6 score_board"></div>
+        <div class="btn4_Row6 score_board"></div>
+        <div class="btn5_Row6 score_board"></div>
+    </div>
+
+</center>
+<center>
+<div class = "reload">
+     <!-- <button class = "btn_reload" onclick = "location.reload()">Try Again</button>  -->
+     <button class = "btn_reload" onclick = "reloadfunc()">Try Again</button> 
+    
+</div>
+</center>
+    <script src="script.js" async defer></script>
+</body>
+
+</html>
+
+<!-- location.reload() -->
+
